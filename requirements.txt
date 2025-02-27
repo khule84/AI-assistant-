@@ -5,3 +5,5 @@ beautifulsoup4
 scrapy
 transformers
 scikit-learn
+fastapi
+uvicorn
